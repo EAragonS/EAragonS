@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elias Aragón, Software Engineering carreer student
-- 👀 I’m interested in audivisuals and videogames
+- 👀 I’m interested in audiovisuals and videogames
 - 🌱 Learning web development tools
 
 
