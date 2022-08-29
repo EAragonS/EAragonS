@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elias Aragón, Software Engineering carreer student
+- 👋 Hi, I’m Elias Aragón, a Software Engineering student
 - 👀 I’m interested in audiovisuals and videogames
 - 🌱 Learning web development tools
 
